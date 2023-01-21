@@ -1,0 +1,20 @@
+{
+  "name": "bot_cx",
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get your application up and running.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "s": "node app.js",
+    "start": "node app.js"
+  },
+  "author": "Van Tho",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.6.0",
+    "eslint": "^6.8.0",
+    "moment": "^2.29.4",
+    "nodemon": "^2.0.2",
+    "request": "^2.88.2"
+  }
+}
